@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wk_bug:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wk_bug_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wk_bug/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wk_bug" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
